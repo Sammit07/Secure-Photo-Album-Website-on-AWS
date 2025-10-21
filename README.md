@@ -3,6 +3,8 @@
 The **Photo Album Website** is a secure cloud-hosted web application deployed on **Amazon Web Services (AWS)**.  
 It allows users to view photo albums, with metadata stored in a **MySQL RDS database** and photos served from **Amazon S3**.   
 
+<img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/785acf6c-23c0-4675-9da9-68f46eee38fa" />
+
 ---
 
 ## 📌 Features
